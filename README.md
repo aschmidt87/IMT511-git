@@ -22,4 +22,8 @@ Bullet list can be done with '*' or '-':
 - and one with a dash
     * here is a subitem(indent with 4 spaces!)
  ### Links
- HTML links work as this: [google](www.google.com)
+ HTML links work as this: [link to google](http://www.google.com)
+ 
+ ###Images
+ we can include images like this: 
+ ![Mainecoon](cat.jpg)
