@@ -21,3 +21,5 @@ Bullet list can be done with '*' or '-':
 *this is an example with asterisk
 - and one with a dash
     * here is a subitem(indent with 4 spaces!)
+ ### Links
+ HTML links work as this: [google](www.google.com)
